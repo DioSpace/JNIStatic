@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "F:/Cpp/JNIStatic/cmake-build-debug/CMakeFiles/staticlib.dir/embed.manifest"

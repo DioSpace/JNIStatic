@@ -1,0 +1,3 @@
+F:/Cpp/JNIStatic/cmake-build-debug/CMakeFiles/staticlib.dir
+F:/Cpp/JNIStatic/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Cpp/JNIStatic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

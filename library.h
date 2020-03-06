@@ -1,0 +1,6 @@
+#ifndef JNISTATIC_LIBRARY_H
+#define JNISTATIC_LIBRARY_H
+
+void hello();
+
+#endif //JNISTATIC_LIBRARY_H
